@@ -2,7 +2,7 @@
 
 Usted es libre de:
 
-Compartir — copiar y redistribuir el material en cualquier medio o formato
+Compartir — copiar y redistribuir el material en cualquier medio o formato.
 
 Adaptar — remezclar, transformar y construir a partir del material para cualquier propósito, incluso comercialmente.
 
